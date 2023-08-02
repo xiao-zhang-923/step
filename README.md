@@ -19,3 +19,13 @@
 ## 图片
 <img width="667" alt="image" src="https://github.com/xiao-zhang-923/step/assets/20633544/c9726b53-72c6-41a5-a163-f25e9cc6238f">
 
+
+## npm包
+```
+npm install zvue3-step
+```
+## 引入
+import Vue3Step from "zvue3-step";
+import 'zvue3-step/style.css'
+<img width="463" alt="image" src="https://github.com/xiao-zhang-923/step/assets/20633544/56ce0cfb-2853-40f8-ad1c-daceaa7c621c">
+## 使用
