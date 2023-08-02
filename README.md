@@ -10,3 +10,8 @@
  `list` | 是        | Array   |  步骤条内容
  `step` | 是       | Number |  设置当前激活步骤
  `width`  | 否  |  Number  | 步骤条长度
+
+ ## list例子
+```
+[{'title':"获取验证码"},{"title":"输入手机号"}]
+```
