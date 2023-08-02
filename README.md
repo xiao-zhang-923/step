@@ -15,3 +15,7 @@
 ```
 [{'title':"获取验证码"},{"title":"输入手机号"}]
 ```
+
+## 图片
+<img width="667" alt="image" src="https://github.com/xiao-zhang-923/step/assets/20633544/c9726b53-72c6-41a5-a163-f25e9cc6238f">
+
