@@ -30,4 +30,4 @@ import Vue3Step from "zvue3-step";
 import 'zvue3-step/style.css'
 ```
 <img width="463" alt="image" src="https://github.com/xiao-zhang-923/step/assets/20633544/56ce0cfb-2853-40f8-ad1c-daceaa7c621c">
-## 使用
+
